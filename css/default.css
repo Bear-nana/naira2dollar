@@ -279,6 +279,9 @@ a.text-primary:focus {
     .bg-light .card {
         width: 100% !important;
     }
+    .other-services {
+      font-size: 10px;
+    }
 
 }
 #testimonial {
