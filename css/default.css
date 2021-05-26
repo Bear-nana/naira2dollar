@@ -317,3 +317,10 @@ a.text-primary:focus {
 .tagline {
     background: rgb(255, 255, 255);
 }
+footer .quicklink ul {
+  width: 100%;
+}
+footer .quicklink ul li {
+  width: 50%;
+  float: left;
+}
